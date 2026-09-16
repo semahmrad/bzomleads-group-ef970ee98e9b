@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://semahmrad.github.io/bzomleads-group-ef970ee98e9b/la-bu-cherie-c954a9c2/sitemap.xml

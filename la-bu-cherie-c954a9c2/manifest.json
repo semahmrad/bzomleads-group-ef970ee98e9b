@@ -1,0 +1,17 @@
+{
+  "name": "La Bûcherie",
+  "short_name": "La Bûcherie",
+  "description": "La Bûcherie - Restaurant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#110B10",
+  "theme_color": "#542441",
+  "icons": [
+    {
+      "src": "assets/icons/logo-mark.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

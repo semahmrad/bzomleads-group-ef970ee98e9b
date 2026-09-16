@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Logo La Bûcherie">
+  <title>La Bûcherie</title>
+  <desc>Identité visuelle originale créée pour La Bûcherie</desc>
+  <defs>
+    <linearGradient id="logoGradient" x1="8%" y1="5%" x2="92%" y2="96%">
+      <stop offset="0%" stop-color="#542441" />
+      <stop offset="100%" stop-color="#4B6250" />
+    </linearGradient>
+    <radialGradient id="logoGlow" cx="24%" cy="16%" r="86%">
+      <stop offset="0%" stop-color="#D3A66D" stop-opacity="0.34" />
+      <stop offset="100%" stop-color="#D3A66D" stop-opacity="0" />
+    </radialGradient>
+    <filter id="logoShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.26" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="132" fill="#EFE3DA" />
+  <rect x="28" y="28" width="456" height="456" rx="116" fill="url(#logoGradient)" filter="url(#logoShadow)" />
+  <rect x="28" y="28" width="456" height="456" rx="116" fill="url(#logoGlow)" />
+  <circle cx="256" cy="256" r="181" fill="none" stroke="#D3A66D" stroke-width="3" opacity="0.76" />
+  <circle cx="256" cy="256" r="165" fill="#FCF7F1" opacity="0.97" />
+  <g transform="rotate(8 256 160)" color="#D3A66D" fill="none" stroke="#D3A66D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190 194h132M207 186c5-47 24-70 49-70s44 23 49 70M256 116V99M244 99h24" />
+<path d="M224 165c20 2 34-8 44-28 12 17 25 26 42 27" />
+  </g>
+  <path d="M174 256h164" stroke="#D3A66D" stroke-width="3" opacity="0.58" />
+  <text x="256" y="347" text-anchor="middle" fill="#542441" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" letter-spacing="-5">LB</text>
+  <text x="256" y="400" text-anchor="middle" fill="#4B6250" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="7">RESTAURANT</text>
+  <circle cx="163" cy="396" r="4" fill="#D3A66D" />
+  <circle cx="349" cy="396" r="4" fill="#D3A66D" />
+</svg>

@@ -1,0 +1,468 @@
+{
+  "defaultLanguage": "fr",
+  "languages": [
+    "fr",
+    "en",
+    "ar"
+  ],
+  "seo": {
+    "title": "La Bûcherie | Restaurant a 41 Rue de la Bûcherie, 75005 Paris",
+    "description": "La Bûcherie presente ses services, ses horaires, son adresse et son contact direct a 41 Rue de la Bûcherie, 75005 Paris. Site vitrine statique moderne o...",
+    "keywords": [
+      "La Bûcherie",
+      "Restaurant",
+      "Restaurant 41 Rue de la Bûcherie, 75005 Paris",
+      "contact La Bûcherie",
+      "WhatsApp La Bûcherie",
+      "adresse La Bûcherie",
+      "site vitrine",
+      "SEO local"
+    ]
+  },
+  "content": {
+    "fr": {
+      "metaTitle": "La Bûcherie | Restaurant a 41 Rue de la Bûcherie, 75005 Paris",
+      "metaDescription": "La Bûcherie presente ses services, ses horaires, son adresse et son contact direct a 41 Rue de la Bûcherie, 75005 Paris. Site vitrine statique moderne o...",
+      "nav": {
+        "about": "A propos",
+        "services": "Services",
+        "gallery": "Galerie",
+        "reviews": "Avis",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Restaurant a 75005 Paris",
+        "title": "La Bûcherie",
+        "subtitle": "Une adresse locale a 75005 Paris, presentee avec plus d elegance, de chaleur et de clarte.",
+        "description": "La Bûcherie vous accueille avec une presentation soignee, une ambiance rassurante et les informations utiles pour preparer une visite, une commande ou une prise de contact.",
+        "primaryCta": "Contacter sur WhatsApp",
+        "secondaryCta": "Voir les services"
+      },
+      "about": {
+        "eyebrow": "A propos",
+        "title": "L esprit La Bûcherie",
+        "body": "La Bûcherie accueille sa clientele depuis 41 Rue de la Bûcherie, 75005 Paris avec une attention particuliere portee au service, a l atmosphere et a la clarte des informations utiles. Cette page permet de retrouver facilement l adresse, les horaires, les services et les moyens de contact."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Services et experience",
+        "intro": "Retrouvez les prestations, les formats et les attentions qui rendent l experience plus simple, plus fluide et plus agreable.",
+        "items": [
+          {
+            "title": "Service sur place",
+            "description": "Service sur place pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          },
+          {
+            "title": "Vente a emporter",
+            "description": "Vente a emporter pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          },
+          {
+            "title": "Reservations locales",
+            "description": "Reservations locales pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          },
+          {
+            "title": "Commandes pour groupes",
+            "description": "Commandes pour groupes pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Points forts",
+        "title": "Ce qui fait la difference",
+        "items": [
+          {
+            "title": "Adresse facile a retrouver",
+            "description": "Toutes les informations utiles pour rejoindre La Bûcherie sont reunies autour de 41 Rue de la Bûcherie, 75005 Paris."
+          },
+          {
+            "title": "Contact direct",
+            "description": "Telephone, carte, horaires et WhatsApp sont accessibles sans effort depuis desktop comme depuis mobile."
+          },
+          {
+            "title": "Presentation plus soignee",
+            "description": "Une identite visuelle plus premium met mieux en valeur le lieu, l ambiance et la qualite de service."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Galerie",
+        "title": "L univers de La Bûcherie",
+        "intro": "Une galerie bien composee permet de retrouver l ambiance, les details du lieu et la qualite de presentation en un coup d oeil.",
+        "captions": [
+          "Facade et identite",
+          "Ambiance et accueil",
+          "Produits et savoir-faire",
+          "Contact et localisation"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "L avis des clients",
+        "summary": "Avis clients authentiques publiés sur Google Maps."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Nous contacter",
+        "intro": "Adresse, telephone, carte, horaires et WhatsApp sont reunis au meme endroit pour rendre chaque prise de contact plus simple."
+      },
+      "form": {
+        "title": "Envoyer un message",
+        "intro": "Le formulaire ouvre directement WhatsApp pour contacter l etablissement rapidement depuis mobile comme depuis desktop."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Questions frequentes",
+        "items": [
+          {
+            "question": "Ou se trouve l etablissement ?",
+            "answer": "41 Rue de la Bûcherie, 75005 Paris"
+          },
+          {
+            "question": "Comment prendre contact rapidement ?",
+            "answer": "Le telephone, la carte Google Maps et le formulaire WhatsApp permettent un contact simple et direct."
+          },
+          {
+            "question": "Quels services sont proposes ?",
+            "answer": "L activite est orientee autour de Service sur place, Vente a emporter, Reservations locales."
+          },
+          {
+            "question": "Peut-on envoyer une demande specifique ?",
+            "answer": "Oui, le formulaire WhatsApp permet d envoyer un message detaille en quelques secondes."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "La Bûcherie - Restaurant a 41 Rue de la Bûcherie, 75005 Paris"
+      },
+      "ui": {
+        "navAbout": "A propos",
+        "navServices": "Services",
+        "navGallery": "Galerie",
+        "navReviews": "Avis",
+        "navContact": "Contact",
+        "languageLabel": "Langue",
+        "addressLabel": "Adresse",
+        "phoneLabel": "Telephone",
+        "emailLabel": "Email",
+        "hoursLabel": "Horaires",
+        "ratingLabel": "Note",
+        "openMap": "Ouvrir la carte",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Nom",
+        "formPhoneLabel": "Telephone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Envoyer sur WhatsApp",
+        "formNamePlaceholder": "Votre nom",
+        "formPhonePlaceholder": "Votre numero",
+        "formMessagePlaceholder": "Bonjour, je souhaite obtenir plus d informations sur vos services.",
+        "noHours": "Horaires communiques sur demande",
+        "galleryBadge": "Photos",
+        "featureBadge": "Atouts",
+        "reviewBadge": "Confiance",
+        "contactBadge": "Disponible",
+        "faqBadge": "Questions",
+        "viewOnMaps": "Voir sur Google Maps",
+        "viewReviews": "Voir les avis Google",
+        "writeReview": "Laisser un avis",
+        "callNow": "Appeler maintenant",
+        "sendOnWhatsapp": "Demarrer sur WhatsApp"
+      }
+    },
+    "en": {
+      "metaTitle": "La Bûcherie | Restaurant a 41 Rue de la Bûcherie, 75005 Paris",
+      "metaDescription": "La Bûcherie presente ses services, ses horaires, son adresse et son contact direct a 41 Rue de la Bûcherie, 75005 Paris. Site vitrine statique moderne o...",
+      "nav": {
+        "about": "About",
+        "services": "Services",
+        "gallery": "Gallery",
+        "reviews": "Reviews",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Restaurant in 75005 Paris",
+        "title": "La Bûcherie",
+        "subtitle": "A more elegant local presentation in 75005 Paris, designed to feel warm, premium, and easy to trust.",
+        "description": "La Bûcherie brings together the essentials in one polished experience: atmosphere, services, location, and the fastest way to get in touch.",
+        "primaryCta": "Contact on WhatsApp",
+        "secondaryCta": "View services"
+      },
+      "about": {
+        "eyebrow": "About",
+        "title": "The spirit of La Bûcherie",
+        "body": "La Bûcherie welcomes customers in 41 Rue de la Bûcherie, 75005 Paris with a clear offer, a stronger sense of atmosphere, and a presentation that feels more refined on every screen."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Services and experience",
+        "intro": "Everything here is arranged to make the offer easier to understand, easier to enjoy, and easier to contact.",
+        "items": [
+          {
+            "title": "Dine-in service",
+            "description": "Dine-in service presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          },
+          {
+            "title": "Takeaway options",
+            "description": "Takeaway options presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          },
+          {
+            "title": "Local reservations",
+            "description": "Local reservations presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          },
+          {
+            "title": "Group-friendly orders",
+            "description": "Group-friendly orders presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Highlights",
+        "title": "What makes it stand out",
+        "items": [
+          {
+            "title": "Easy to find",
+            "description": "Visitors can quickly locate La Bûcherie around 41 Rue de la Bûcherie, 75005 Paris with the key details presented clearly."
+          },
+          {
+            "title": "Direct contact",
+            "description": "Phone, map, hours, and WhatsApp work together to make every enquiry faster and simpler."
+          },
+          {
+            "title": "Stronger first impression",
+            "description": "A more premium presentation makes the place feel warmer, more credible, and more memorable."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Gallery",
+        "title": "Inside La Bûcherie",
+        "intro": "A stronger gallery helps visitors feel the atmosphere, discover the visual identity, and understand the experience before they arrive.",
+        "captions": [
+          "Brand frontage",
+          "Welcome and atmosphere",
+          "Products and expertise",
+          "Location and contact"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "Guest impressions",
+        "summary": "Authentic customer reviews published on Google Maps."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Get in touch",
+        "intro": "Phone, map, hours, and WhatsApp are grouped together so every visitor can reach the business with less friction."
+      },
+      "form": {
+        "title": "Send a message",
+        "intro": "The form opens WhatsApp directly for a fast, practical conversation from any device."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Frequently asked questions",
+        "items": [
+          {
+            "question": "Where is the business located?",
+            "answer": "41 Rue de la Bûcherie, 75005 Paris"
+          },
+          {
+            "question": "What is the fastest way to get in touch?",
+            "answer": "Phone, Google Maps, and the WhatsApp form create a very direct contact path."
+          },
+          {
+            "question": "What services are available?",
+            "answer": "The business is positioned around Service sur place, Vente a emporter, Reservations locales."
+          },
+          {
+            "question": "Can I send a specific request?",
+            "answer": "Yes. The WhatsApp form lets visitors send a detailed message in just a few seconds."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "La Bûcherie - Restaurant in 41 Rue de la Bûcherie, 75005 Paris"
+      },
+      "ui": {
+        "navAbout": "About",
+        "navServices": "Services",
+        "navGallery": "Gallery",
+        "navReviews": "Reviews",
+        "navContact": "Contact",
+        "languageLabel": "Language",
+        "addressLabel": "Address",
+        "phoneLabel": "Phone",
+        "emailLabel": "Email",
+        "hoursLabel": "Hours",
+        "ratingLabel": "Rating",
+        "openMap": "Open map",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Name",
+        "formPhoneLabel": "Phone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Send on WhatsApp",
+        "formNamePlaceholder": "Your name",
+        "formPhonePlaceholder": "Your phone number",
+        "formMessagePlaceholder": "Hello, I would like more information about your services.",
+        "noHours": "Hours available on request",
+        "galleryBadge": "Photos",
+        "featureBadge": "Highlights",
+        "reviewBadge": "Trust",
+        "contactBadge": "Available",
+        "faqBadge": "FAQ",
+        "viewOnMaps": "View on Google Maps",
+        "viewReviews": "Read Google reviews",
+        "writeReview": "Leave a review",
+        "callNow": "Call now",
+        "sendOnWhatsapp": "Start on WhatsApp"
+      }
+    },
+    "ar": {
+      "metaTitle": "La Bûcherie | Restaurant a 41 Rue de la Bûcherie, 75005 Paris",
+      "metaDescription": "La Bûcherie presente ses services, ses horaires, son adresse et son contact direct a 41 Rue de la Bûcherie, 75005 Paris. Site vitrine statique moderne o...",
+      "nav": {
+        "about": "من نحن",
+        "services": "الخدمات",
+        "gallery": "المعرض",
+        "reviews": "التقييم",
+        "contact": "تواصل"
+      },
+      "hero": {
+        "eyebrow": "حضور محلي وتواصل سريع",
+        "title": "La Bûcherie، خيار موثوق في 41 Rue de la Bûcherie, 75005 Paris.",
+        "subtitle": "موقع ثابت عصري يعرّف بخدمات La Bûcherie ويحوّل الزيارات المحلية إلى طلبات حقيقية.",
+        "description": "تعرض هذه الصفحة المعلومات المهمة عن La Bûcherie بشكل واضح: ما الذي يقدمه النشاط، أين يوجد، وكيف يمكن التواصل بسرعة من الهاتف أو واتساب.",
+        "primaryCta": "تواصل عبر واتساب",
+        "secondaryCta": "عرض الخدمات"
+      },
+      "about": {
+        "eyebrow": "من نحن",
+        "title": "لماذا يختار العملاء La Bûcherie؟",
+        "body": "يخدم La Bûcherie العملاء في 41 Rue de la Bûcherie, 75005 Paris بعرض واضح وتجربة تواصل سهلة تساعد الزائر على فهم النشاط واتخاذ القرار بسرعة."
+      },
+      "services": {
+        "eyebrow": "الخدمات",
+        "title": "خدمات مناسبة للبحث المحلي",
+        "intro": "يمكن تعديل هذه الأقسام بسهولة لتناسب الخدمات الفعلية أو المنتجات أو العروض الخاصة بالنشاط.",
+        "items": [
+          {
+            "title": "خدمة داخل المطعم",
+            "description": "خدمة داخل المطعم مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          },
+          {
+            "title": "طلبات خارجية",
+            "description": "طلبات خارجية مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          },
+          {
+            "title": "حجوزات محلية",
+            "description": "حجوزات محلية مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          },
+          {
+            "title": "طلبات للمجموعات",
+            "description": "طلبات للمجموعات مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "نقاط القوة",
+        "title": "أسباب تدفع العميل للتواصل",
+        "items": [
+          {
+            "title": "ظهور محلي واضح",
+            "description": "صفحة واضحة تبرز 41 Rue de la Bûcherie, 75005 Paris وتسهل الوصول إلى النشاط."
+          },
+          {
+            "title": "تواصل سريع من الهاتف",
+            "description": "الهاتف والخريطة وواتساب في مكان واحد لتقليل أي تعقيد."
+          },
+          {
+            "title": "صورة أكثر احترافية",
+            "description": "عرض منظم وحديث يساعد على بناء الثقة قبل أول اتصال."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "المعرض",
+        "title": "صور واضحة تبني الثقة",
+        "intro": "عرض بصري جيد يساعد العميل على فهم الأجواء والخدمات وسهولة الوصول إلى النشاط.",
+        "captions": [
+          "الواجهة والهوية",
+          "الاستقبال والأجواء",
+          "الخدمات والمنتجات",
+          "الموقع ووسائل التواصل"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "السمعة",
+        "title": "ما الذي تعكسه البطاقة العامة",
+        "summary": "مراجعات عملاء حقيقية منشورة على خرائط Google."
+      },
+      "contact": {
+        "eyebrow": "تواصل",
+        "title": "اجعل التواصل أسهل",
+        "intro": "الهاتف والعنوان والخريطة وواتساب في مكان واحد لتسهيل التواصل السريع مع النشاط."
+      },
+      "form": {
+        "title": "أرسل طلباً سريعاً",
+        "intro": "النموذج يفتح واتساب مباشرة من دون أي باك إند ليسهّل إرسال الرسائل من الهاتف."
+      },
+      "faq": {
+        "eyebrow": "الأسئلة الشائعة",
+        "title": "أسئلة متكررة",
+        "items": [
+          {
+            "question": "أين يقع النشاط؟",
+            "answer": "41 Rue de la Bûcherie, 75005 Paris"
+          },
+          {
+            "question": "ما أسرع طريقة للتواصل؟",
+            "answer": "الهاتف والخريطة ونموذج واتساب يجعلون التواصل مباشراً وسريعاً."
+          },
+          {
+            "question": "ما الخدمات المتوفرة؟",
+            "answer": "يركز النشاط على Service sur place، Vente a emporter، Reservations locales."
+          },
+          {
+            "question": "هل يمكن إرسال طلب خاص؟",
+            "answer": "نعم، يمكنك إرسال رسالة مفصلة مباشرة عبر نموذج واتساب."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "La Bûcherie - مطعم في 41 Rue de la Bûcherie, 75005 Paris"
+      },
+      "ui": {
+        "navAbout": "من نحن",
+        "navServices": "الخدمات",
+        "navGallery": "المعرض",
+        "navReviews": "التقييم",
+        "navContact": "تواصل",
+        "languageLabel": "اللغة",
+        "addressLabel": "العنوان",
+        "phoneLabel": "الهاتف",
+        "emailLabel": "البريد",
+        "hoursLabel": "الأوقات",
+        "ratingLabel": "التقييم",
+        "openMap": "فتح الخريطة",
+        "whatsAppLabel": "واتساب",
+        "formNameLabel": "الاسم",
+        "formPhoneLabel": "الهاتف",
+        "formMessageLabel": "الرسالة",
+        "formSubmitLabel": "إرسال عبر واتساب",
+        "formNamePlaceholder": "اسمك",
+        "formPhonePlaceholder": "رقم الهاتف",
+        "formMessagePlaceholder": "مرحباً، أريد معرفة المزيد عن خدماتكم.",
+        "noHours": "ساعات العمل متاحة عند الطلب",
+        "galleryBadge": "صور",
+        "featureBadge": "المزايا",
+        "reviewBadge": "ثقة",
+        "contactBadge": "متاح",
+        "faqBadge": "الأسئلة",
+        "viewOnMaps": "عرض على خرائط Google",
+        "viewReviews": "عرض تقييمات Google",
+        "writeReview": "إضافة تقييم",
+        "callNow": "اتصل الآن",
+        "sendOnWhatsapp": "ابدأ عبر واتساب"
+      }
+    }
+  }
+}
