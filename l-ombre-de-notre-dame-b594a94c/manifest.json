@@ -1,0 +1,17 @@
+{
+  "name": "L'ombre de Notre-Dame",
+  "short_name": "L'ombre de Notre-D",
+  "description": "L'ombre de Notre-Dame - Cafe",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8F2E8",
+  "theme_color": "#3E6B5A",
+  "icons": [
+    {
+      "src": "assets/icons/logo-mark.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

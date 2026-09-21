@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://semahmrad.github.io/bzomleads-group-ef970ee98e9b/l-ombre-de-notre-dame-b594a94c/sitemap.xml

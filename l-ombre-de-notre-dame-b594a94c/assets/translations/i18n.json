@@ -1,0 +1,468 @@
+{
+  "defaultLanguage": "fr",
+  "languages": [
+    "fr",
+    "en",
+    "ar"
+  ],
+  "seo": {
+    "title": "L'ombre de Notre-Dame | Cafe a Cafe",
+    "description": "L'ombre de Notre-Dame presente ses services, ses horaires, son adresse et son contact direct a Cafe. Site vitrine statique moderne optimise SEO local.",
+    "keywords": [
+      "L'ombre de Notre-Dame",
+      "Cafe",
+      "Cafe Cafe",
+      "contact L'ombre de Notre-Dame",
+      "WhatsApp L'ombre de Notre-Dame",
+      "adresse L'ombre de Notre-Dame",
+      "site vitrine",
+      "SEO local"
+    ]
+  },
+  "content": {
+    "fr": {
+      "metaTitle": "L'ombre de Notre-Dame | Cafe a Cafe",
+      "metaDescription": "L'ombre de Notre-Dame presente ses services, ses horaires, son adresse et son contact direct a Cafe. Site vitrine statique moderne optimise SEO local.",
+      "nav": {
+        "about": "A propos",
+        "services": "Services",
+        "gallery": "Galerie",
+        "reviews": "Avis",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Cafe a votre zone",
+        "title": "L'ombre de Notre-Dame",
+        "subtitle": "Une adresse locale a votre zone, presentee avec plus d elegance, de chaleur et de clarte.",
+        "description": "L'ombre de Notre-Dame vous accueille avec une presentation soignee, une ambiance rassurante et les informations utiles pour preparer une visite, une commande ou une prise de contact.",
+        "primaryCta": "Contacter sur WhatsApp",
+        "secondaryCta": "Voir les services"
+      },
+      "about": {
+        "eyebrow": "A propos",
+        "title": "L esprit L'ombre de Notre-Dame",
+        "body": "L'ombre de Notre-Dame accueille sa clientele depuis votre zone avec une attention particuliere portee au service, a l atmosphere et a la clarte des informations utiles. Cette page permet de retrouver facilement l adresse, les horaires, les services et les moyens de contact."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Services et experience",
+        "intro": "Retrouvez les prestations, les formats et les attentions qui rendent l experience plus simple, plus fluide et plus agreable.",
+        "items": [
+          {
+            "title": "Cafe et boissons chaudes",
+            "description": "Cafe et boissons chaudes pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          },
+          {
+            "title": "Snacking et douceurs",
+            "description": "Snacking et douceurs pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          },
+          {
+            "title": "Pause petit-dejeuner",
+            "description": "Pause petit-dejeuner pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          },
+          {
+            "title": "Espace convivial",
+            "description": "Espace convivial pense pour offrir une experience fluide, claire et agreable avant, pendant et apres la visite."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Points forts",
+        "title": "Ce qui fait la difference",
+        "items": [
+          {
+            "title": "Adresse facile a retrouver",
+            "description": "Toutes les informations utiles pour rejoindre L'ombre de Notre-Dame sont reunies autour de votre zone."
+          },
+          {
+            "title": "Contact direct",
+            "description": "Telephone, carte, horaires et WhatsApp sont accessibles sans effort depuis desktop comme depuis mobile."
+          },
+          {
+            "title": "Presentation plus soignee",
+            "description": "Une identite visuelle plus premium met mieux en valeur le lieu, l ambiance et la qualite de service."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Galerie",
+        "title": "L univers de L'ombre de Notre-Dame",
+        "intro": "Une galerie bien composee permet de retrouver l ambiance, les details du lieu et la qualite de presentation en un coup d oeil.",
+        "captions": [
+          "Facade et identite",
+          "Ambiance et accueil",
+          "Produits et savoir-faire",
+          "Contact et localisation"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "L avis des clients",
+        "summary": "Avis clients authentiques publiés sur Google Maps."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Nous contacter",
+        "intro": "Adresse, telephone, carte, horaires et WhatsApp sont reunis au meme endroit pour rendre chaque prise de contact plus simple."
+      },
+      "form": {
+        "title": "Envoyer un message",
+        "intro": "Le formulaire ouvre directement WhatsApp pour contacter l etablissement rapidement depuis mobile comme depuis desktop."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Questions frequentes",
+        "items": [
+          {
+            "question": "Ou se trouve l etablissement ?",
+            "answer": "L adresse complete est communiquee sur demande ou visible sur la carte."
+          },
+          {
+            "question": "Comment prendre contact rapidement ?",
+            "answer": "Le telephone, la carte Google Maps et le formulaire WhatsApp permettent un contact simple et direct."
+          },
+          {
+            "question": "Quels services sont proposes ?",
+            "answer": "L activite est orientee autour de Cafe et boissons chaudes, Snacking et douceurs, Pause petit-dejeuner."
+          },
+          {
+            "question": "Peut-on envoyer une demande specifique ?",
+            "answer": "Oui, le formulaire WhatsApp permet d envoyer un message detaille en quelques secondes."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "L'ombre de Notre-Dame - Cafe a votre zone"
+      },
+      "ui": {
+        "navAbout": "A propos",
+        "navServices": "Services",
+        "navGallery": "Galerie",
+        "navReviews": "Avis",
+        "navContact": "Contact",
+        "languageLabel": "Langue",
+        "addressLabel": "Adresse",
+        "phoneLabel": "Telephone",
+        "emailLabel": "Email",
+        "hoursLabel": "Horaires",
+        "ratingLabel": "Note",
+        "openMap": "Ouvrir la carte",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Nom",
+        "formPhoneLabel": "Telephone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Envoyer sur WhatsApp",
+        "formNamePlaceholder": "Votre nom",
+        "formPhonePlaceholder": "Votre numero",
+        "formMessagePlaceholder": "Bonjour, je souhaite obtenir plus d informations sur vos services.",
+        "noHours": "Horaires communiques sur demande",
+        "galleryBadge": "Photos",
+        "featureBadge": "Atouts",
+        "reviewBadge": "Confiance",
+        "contactBadge": "Disponible",
+        "faqBadge": "Questions",
+        "viewOnMaps": "Voir sur Google Maps",
+        "viewReviews": "Voir les avis Google",
+        "writeReview": "Laisser un avis",
+        "callNow": "Appeler maintenant",
+        "sendOnWhatsapp": "Demarrer sur WhatsApp"
+      }
+    },
+    "en": {
+      "metaTitle": "L'ombre de Notre-Dame | Cafe a Cafe",
+      "metaDescription": "L'ombre de Notre-Dame presente ses services, ses horaires, son adresse et son contact direct a Cafe. Site vitrine statique moderne optimise SEO local.",
+      "nav": {
+        "about": "About",
+        "services": "Services",
+        "gallery": "Gallery",
+        "reviews": "Reviews",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Cafe in your area",
+        "title": "L'ombre de Notre-Dame",
+        "subtitle": "A more elegant local presentation in your area, designed to feel warm, premium, and easy to trust.",
+        "description": "L'ombre de Notre-Dame brings together the essentials in one polished experience: atmosphere, services, location, and the fastest way to get in touch.",
+        "primaryCta": "Contact on WhatsApp",
+        "secondaryCta": "View services"
+      },
+      "about": {
+        "eyebrow": "About",
+        "title": "The spirit of L'ombre de Notre-Dame",
+        "body": "L'ombre de Notre-Dame welcomes customers in your area with a clear offer, a stronger sense of atmosphere, and a presentation that feels more refined on every screen."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Services and experience",
+        "intro": "Everything here is arranged to make the offer easier to understand, easier to enjoy, and easier to contact.",
+        "items": [
+          {
+            "title": "Coffee and hot drinks",
+            "description": "Coffee and hot drinks presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          },
+          {
+            "title": "Snacks and pastries",
+            "description": "Snacks and pastries presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          },
+          {
+            "title": "Local breakfast stop",
+            "description": "Local breakfast stop presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          },
+          {
+            "title": "Relaxed meeting space",
+            "description": "Relaxed meeting space presented with a polished, welcoming tone that makes the experience easier to understand and easier to enjoy."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Highlights",
+        "title": "What makes it stand out",
+        "items": [
+          {
+            "title": "Easy to find",
+            "description": "Visitors can quickly locate L'ombre de Notre-Dame around your area with the key details presented clearly."
+          },
+          {
+            "title": "Direct contact",
+            "description": "Phone, map, hours, and WhatsApp work together to make every enquiry faster and simpler."
+          },
+          {
+            "title": "Stronger first impression",
+            "description": "A more premium presentation makes the place feel warmer, more credible, and more memorable."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Gallery",
+        "title": "Inside L'ombre de Notre-Dame",
+        "intro": "A stronger gallery helps visitors feel the atmosphere, discover the visual identity, and understand the experience before they arrive.",
+        "captions": [
+          "Brand frontage",
+          "Welcome and atmosphere",
+          "Products and expertise",
+          "Location and contact"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "Guest impressions",
+        "summary": "Authentic customer reviews published on Google Maps."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Get in touch",
+        "intro": "Phone, map, hours, and WhatsApp are grouped together so every visitor can reach the business with less friction."
+      },
+      "form": {
+        "title": "Send a message",
+        "intro": "The form opens WhatsApp directly for a fast, practical conversation from any device."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Frequently asked questions",
+        "items": [
+          {
+            "question": "Where is the business located?",
+            "answer": "The full address is shared on request or visible on the map section."
+          },
+          {
+            "question": "What is the fastest way to get in touch?",
+            "answer": "Phone, Google Maps, and the WhatsApp form create a very direct contact path."
+          },
+          {
+            "question": "What services are available?",
+            "answer": "The business is positioned around Cafe et boissons chaudes, Snacking et douceurs, Pause petit-dejeuner."
+          },
+          {
+            "question": "Can I send a specific request?",
+            "answer": "Yes. The WhatsApp form lets visitors send a detailed message in just a few seconds."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "L'ombre de Notre-Dame - Cafe in your area"
+      },
+      "ui": {
+        "navAbout": "About",
+        "navServices": "Services",
+        "navGallery": "Gallery",
+        "navReviews": "Reviews",
+        "navContact": "Contact",
+        "languageLabel": "Language",
+        "addressLabel": "Address",
+        "phoneLabel": "Phone",
+        "emailLabel": "Email",
+        "hoursLabel": "Hours",
+        "ratingLabel": "Rating",
+        "openMap": "Open map",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Name",
+        "formPhoneLabel": "Phone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Send on WhatsApp",
+        "formNamePlaceholder": "Your name",
+        "formPhonePlaceholder": "Your phone number",
+        "formMessagePlaceholder": "Hello, I would like more information about your services.",
+        "noHours": "Hours available on request",
+        "galleryBadge": "Photos",
+        "featureBadge": "Highlights",
+        "reviewBadge": "Trust",
+        "contactBadge": "Available",
+        "faqBadge": "FAQ",
+        "viewOnMaps": "View on Google Maps",
+        "viewReviews": "Read Google reviews",
+        "writeReview": "Leave a review",
+        "callNow": "Call now",
+        "sendOnWhatsapp": "Start on WhatsApp"
+      }
+    },
+    "ar": {
+      "metaTitle": "L'ombre de Notre-Dame | Cafe a Cafe",
+      "metaDescription": "L'ombre de Notre-Dame presente ses services, ses horaires, son adresse et son contact direct a Cafe. Site vitrine statique moderne optimise SEO local.",
+      "nav": {
+        "about": "من نحن",
+        "services": "الخدمات",
+        "gallery": "المعرض",
+        "reviews": "التقييم",
+        "contact": "تواصل"
+      },
+      "hero": {
+        "eyebrow": "حضور محلي وتواصل سريع",
+        "title": "L'ombre de Notre-Dame، خيار موثوق في منطقتك.",
+        "subtitle": "موقع ثابت عصري يعرّف بخدمات L'ombre de Notre-Dame ويحوّل الزيارات المحلية إلى طلبات حقيقية.",
+        "description": "تعرض هذه الصفحة المعلومات المهمة عن L'ombre de Notre-Dame بشكل واضح: ما الذي يقدمه النشاط، أين يوجد، وكيف يمكن التواصل بسرعة من الهاتف أو واتساب.",
+        "primaryCta": "تواصل عبر واتساب",
+        "secondaryCta": "عرض الخدمات"
+      },
+      "about": {
+        "eyebrow": "من نحن",
+        "title": "لماذا يختار العملاء L'ombre de Notre-Dame؟",
+        "body": "يخدم L'ombre de Notre-Dame العملاء في منطقتك بعرض واضح وتجربة تواصل سهلة تساعد الزائر على فهم النشاط واتخاذ القرار بسرعة."
+      },
+      "services": {
+        "eyebrow": "الخدمات",
+        "title": "خدمات مناسبة للبحث المحلي",
+        "intro": "يمكن تعديل هذه الأقسام بسهولة لتناسب الخدمات الفعلية أو المنتجات أو العروض الخاصة بالنشاط.",
+        "items": [
+          {
+            "title": "قهوة ومشروبات ساخنة",
+            "description": "قهوة ومشروبات ساخنة مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          },
+          {
+            "title": "سناك ومعجنات",
+            "description": "سناك ومعجنات مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          },
+          {
+            "title": "فطور محلي",
+            "description": "فطور محلي مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          },
+          {
+            "title": "جلسات مريحة",
+            "description": "جلسات مريحة مع عرض واضح يساعد الزائر على فهم النشاط والتواصل بسرعة."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "نقاط القوة",
+        "title": "أسباب تدفع العميل للتواصل",
+        "items": [
+          {
+            "title": "ظهور محلي واضح",
+            "description": "صفحة واضحة تبرز منطقتك وتسهل الوصول إلى النشاط."
+          },
+          {
+            "title": "تواصل سريع من الهاتف",
+            "description": "الهاتف والخريطة وواتساب في مكان واحد لتقليل أي تعقيد."
+          },
+          {
+            "title": "صورة أكثر احترافية",
+            "description": "عرض منظم وحديث يساعد على بناء الثقة قبل أول اتصال."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "المعرض",
+        "title": "صور واضحة تبني الثقة",
+        "intro": "عرض بصري جيد يساعد العميل على فهم الأجواء والخدمات وسهولة الوصول إلى النشاط.",
+        "captions": [
+          "الواجهة والهوية",
+          "الاستقبال والأجواء",
+          "الخدمات والمنتجات",
+          "الموقع ووسائل التواصل"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "السمعة",
+        "title": "ما الذي تعكسه البطاقة العامة",
+        "summary": "مراجعات عملاء حقيقية منشورة على خرائط Google."
+      },
+      "contact": {
+        "eyebrow": "تواصل",
+        "title": "اجعل التواصل أسهل",
+        "intro": "الهاتف والعنوان والخريطة وواتساب في مكان واحد لتسهيل التواصل السريع مع النشاط."
+      },
+      "form": {
+        "title": "أرسل طلباً سريعاً",
+        "intro": "النموذج يفتح واتساب مباشرة من دون أي باك إند ليسهّل إرسال الرسائل من الهاتف."
+      },
+      "faq": {
+        "eyebrow": "الأسئلة الشائعة",
+        "title": "أسئلة متكررة",
+        "items": [
+          {
+            "question": "أين يقع النشاط؟",
+            "answer": "العنوان الكامل ظاهر في قسم الخريطة أو متاح عند الطلب."
+          },
+          {
+            "question": "ما أسرع طريقة للتواصل؟",
+            "answer": "الهاتف والخريطة ونموذج واتساب يجعلون التواصل مباشراً وسريعاً."
+          },
+          {
+            "question": "ما الخدمات المتوفرة؟",
+            "answer": "يركز النشاط على Cafe et boissons chaudes، Snacking et douceurs، Pause petit-dejeuner."
+          },
+          {
+            "question": "هل يمكن إرسال طلب خاص؟",
+            "answer": "نعم، يمكنك إرسال رسالة مفصلة مباشرة عبر نموذج واتساب."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "L'ombre de Notre-Dame - مقهى في منطقتك"
+      },
+      "ui": {
+        "navAbout": "من نحن",
+        "navServices": "الخدمات",
+        "navGallery": "المعرض",
+        "navReviews": "التقييم",
+        "navContact": "تواصل",
+        "languageLabel": "اللغة",
+        "addressLabel": "العنوان",
+        "phoneLabel": "الهاتف",
+        "emailLabel": "البريد",
+        "hoursLabel": "الأوقات",
+        "ratingLabel": "التقييم",
+        "openMap": "فتح الخريطة",
+        "whatsAppLabel": "واتساب",
+        "formNameLabel": "الاسم",
+        "formPhoneLabel": "الهاتف",
+        "formMessageLabel": "الرسالة",
+        "formSubmitLabel": "إرسال عبر واتساب",
+        "formNamePlaceholder": "اسمك",
+        "formPhonePlaceholder": "رقم الهاتف",
+        "formMessagePlaceholder": "مرحباً، أريد معرفة المزيد عن خدماتكم.",
+        "noHours": "ساعات العمل متاحة عند الطلب",
+        "galleryBadge": "صور",
+        "featureBadge": "المزايا",
+        "reviewBadge": "ثقة",
+        "contactBadge": "متاح",
+        "faqBadge": "الأسئلة",
+        "viewOnMaps": "عرض على خرائط Google",
+        "viewReviews": "عرض تقييمات Google",
+        "writeReview": "إضافة تقييم",
+        "callNow": "اتصل الآن",
+        "sendOnWhatsapp": "ابدأ عبر واتساب"
+      }
+    }
+  }
+}
